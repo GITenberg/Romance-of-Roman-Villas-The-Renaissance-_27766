@@ -1,0 +1,32 @@
+_repo: Romance-of-Roman-Villas-The-Renaissance-_27766
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 27766-h/images/ill_cover.png
+creator:
+  author:
+    agent_name: Champney, Elizabeth W. (Elizabeth Williams)
+    aliases:
+    - Champney, Mrs. J. W.
+    - Champney, Lizzie W. (Lizzie Williams)
+    birthdate: 1850
+    deathdate: 1922
+    gutenberg_agent_id: '32897'
+    url: http://www.gutenberg.org/2009/agents/32897
+description: ''
+gutenberg_issued: '2009-01-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27766'
+  lccn: 08025384
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Renaissance -- Italy'
+- !lcc 'DG'
+- !lcsh 'Art -- Italy'
+- !lcsh 'Legends -- Italy'
+title: Romance of Roman Villas (The Renaissance)
+url: http://www.gutenberg.org/ebooks/27766
